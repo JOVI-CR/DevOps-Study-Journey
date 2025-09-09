@@ -1,7 +1,7 @@
 # 📘 My DevOps Study Journey | Minha Jornada de Estudos em DevOps
 
 Choose your language | Escolha o idioma:  
-➡️ [English](README.md) | [Português-BR](README.pt.br)
+➡️ [English](README.md) | [Português-BR](README.pt.md)
 
 ---
 
